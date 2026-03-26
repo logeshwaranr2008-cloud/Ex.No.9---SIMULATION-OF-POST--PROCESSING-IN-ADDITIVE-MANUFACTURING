@@ -52,8 +52,8 @@
 
 
 
-### Name:
-### Register Number:
+### Name:R.Logeshwaran
+### Register Number:212225040205
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
