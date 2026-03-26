@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No.7 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -46,6 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="1914" height="934" alt="Screenshot 2026-03-26 101327" src="https://github.com/user-attachments/assets/16e43c86-972b-4345-b037-76450690d611" />
+<img width="1908" height="828" alt="Screenshot 2026-03-26 101433" src="https://github.com/user-attachments/assets/3266ce12-9da3-41d3-ab0e-7a4adb72f849" />
+<img width="1894" height="836" alt="Screenshot 2026-03-26 101501" src="https://github.com/user-attachments/assets/b8450b5d-4a39-48c5-8e1c-88541e3a05ea" />
+
+
 
 ### Name:
 ### Register Number:
